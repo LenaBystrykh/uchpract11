@@ -1,0 +1,7 @@
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\bin\Debug\UP11.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\bin\Debug\UP11.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\bin\Debug\UP11.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\obj\Debug\UP11.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\obj\Debug\UP11.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\obj\Debug\UP11.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\учпракт\UP11\UP11\obj\Debug\UP11.pdb
